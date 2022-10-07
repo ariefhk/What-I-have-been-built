@@ -6,7 +6,7 @@ To track what i have been built
     - [Hello World App React Js](https://github.com/ariefhk/Hello-World-App)
 
 2. Vanilla Web
-    - [Lynkid/Linktree Clone](https://linktree-lynkid-clone.netlify.app/)
+    - [Lynkid/Linktree Clone](https://github.com/ariefhk/linktree-lynkid-clone/tree/main)
     - [TeachUs Slicing TailwindCss]()
 
 ### Mobile Apps
