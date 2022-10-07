@@ -7,7 +7,7 @@ To track what i have been built
 
 2. Vanilla Web
     - [Lynkid/Linktree Clone](https://github.com/ariefhk/linktree-lynkid-clone/tree/main)
-    - [TeachUs Slicing TailwindCss]()
+    - [TeachUs Slicing TailwindCss](https://github.com/ariefhk/teachUs-landing-page)
 
 ### Mobile Apps
 1. RN
