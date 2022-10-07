@@ -13,6 +13,8 @@ To track what i have been built
 1. RN
     - [Hello World RN](https://github.com/ariefhk/Hello-World-App_mobile)
 
+2. Flutter
+
 ### Backend Api
 1. test
 
